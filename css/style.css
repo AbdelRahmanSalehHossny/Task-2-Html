@@ -1,0 +1,12 @@
+p,
+a,
+li {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+img {
+    width: 300px;
+}
+a {
+    display: block;
+}
